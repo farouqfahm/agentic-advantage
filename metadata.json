@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Advantage Bootcamp",
+  "description": "In 4 weeks, absolute beginners master practical agent building, AI-assisted coding with Claude Code, OpenClaw, GrokBot & Meta Muse, and ship a live money-making capstone project. Limited to 10 spots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
